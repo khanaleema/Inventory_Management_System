@@ -207,5 +207,38 @@ python main.py
 
 
 
-ExpiredProductError
+**📈 Future Enhancements**
+
+
+
+
+GUI with Tkinter or PyQt
+
+
+
+
+
+Product category reports
+
+
+
+
+
+Advanced search filters
+
+
+
+
+
+Unit testing integration
+
+
+
+
+
+SQLite or MongoDB persistence
+
+
+
+
 
