@@ -189,7 +189,7 @@ DuplicateProductIDError
 
 
 
-**git clone https://github.com/your-username/inventory-oop-system.git**
+**git clone https:https://github.com/Hamza123545/Inventory_Managment.git**
 
 
 
